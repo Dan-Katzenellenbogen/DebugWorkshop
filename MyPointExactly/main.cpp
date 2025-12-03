@@ -1,7 +1,6 @@
 #include "Point.h"
 #include <iostream>
 
-
 int main()
 {
 	Point p1(1, 2);
